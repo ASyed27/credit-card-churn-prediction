@@ -25,7 +25,7 @@ Credit card companies lose significant revenue when customers close their accoun
 ## Repository Contents
 ```
 project/
-├── DSCI521_CreditCard_Churn_Final.ipynb
+├── DSCI521_Final_Code.ipynb
 ├── BankChurners.csv
 ├── DSCI521_Churn_Presentation.pptx
 └── README.md
