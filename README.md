@@ -3,8 +3,8 @@
 **Drexel University | Winter 2026**
 
 **Team Members:**
-- Ahmed Syed (as6387@drexel.edu) — Data preparation, business problem framing, project scoping
-- Sohan Miryalkar (sm5243@drexel.edu) — Exploratory data analysis, statistical analysis, data visualization
+- Ahmed Syed (as6387@drexel.edu) — Data cleaning pipline, EDA, segment analysis
+- Sohan Miryalkar (sm5243@drexel.edu) — EDA, statistical analysis, feature importance
 - Aadesh Kalbhor (ak4567@drexel.edu) — Predictive modeling, model evaluation, results interpretation
 
 ---
